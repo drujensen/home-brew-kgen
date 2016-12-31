@@ -1,5 +1,5 @@
 class Kgen < Formula
-  desc "kgen is a Kemalyst command line tool"
+  desc "kgen is a command line tool for Kemalyst"
   homepage "http://github.com/TechMagister/kemalyst-generator"
   url "https://github.com/TechMagister/kemalyst-generator/archive/v0.1.0.tar.gz"
   version "0.1.0"
