@@ -1,9 +1,9 @@
 class Kgen < Formula
   desc "kgen is a command line tool for Kemalyst"
   homepage "http://github.com/TechMagister/kemalyst-generator"
-  url "https://github.com/TechMagister/kemalyst-generator/archive/v0.4.2.tar.gz"
-  version "0.4.2"
-  sha256 "0561d422a8c834175ce5f55c7e9c52b16b4d08392706b350b20fc4556fa6fc59"
+  url "https://github.com/TechMagister/kemalyst-generator/archive/v0.4.3.tar.gz"
+  version "0.4.3"
+  sha256 "15ffb3835c395162d119a9870485840dea0dc1c6c569b04633d501b8f115c3de"
   revision 1
   depends_on "crystal-lang"
 
